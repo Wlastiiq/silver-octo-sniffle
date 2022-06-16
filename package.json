@@ -154,7 +154,7 @@
     "@types/uuid": "^8.3.3",
     "@welldone-software/why-did-you-render": "^6.2.3",
     "concurrently": "^6.5.1",
-    "electron": "^16.0.2",
+    "electron": "^16.2.6",
     "electron-builder": "^22.14.5",
     "redux-devtools-extension": "^2.13.9",
     "standard-version": "^9.3.2",
